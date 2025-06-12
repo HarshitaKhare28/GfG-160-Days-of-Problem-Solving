@@ -16,6 +16,6 @@ class Solution {
               }
               cnt++;
           }
-          return missing[k-1];
+          return missing[k-1]; 
       }
   };
